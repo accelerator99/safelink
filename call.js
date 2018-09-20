@@ -26,7 +26,7 @@ if(x=="1"){xxx="/2018/09/what-is-music.html"}
 if(x=="2"){xxx="/2018/09/does-music-affect-to-your-mood.html"}
 if(x=="3"){xxx="/2018/09/definition-and-interesting-facts-of-accoustic-musics.html"}
 if(x=="4"){xxx="/2018/09/music-benefits-your-heart-brain-health.html"}
-if(x=="5"){xxx="/2018/09/the-power-of-music-to-reduce-stress.html"}a_to_ve[i].href="https://convert-safelink.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2018/09/the-power-of-music-to-reduce-stress.html"}a_to_ve[i].href="https://99infomusik.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
